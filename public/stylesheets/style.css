@@ -1,8 +1,71 @@
-body {
-  padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+ body{
+  font-family: 'Montserrat Subrayada', sans-serif;
+}
+.header{
+    background-image: url(../images/miamibackground.jpg);
+    background-position: center;
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 0;
+}
+.sv{
+    margin-left: 850px;
+    top: 600px;
+    display: flex;
 }
 
-a {
-  color: #00B7FF;
+.header-line{
+    color: #000;
+    size: 24px;
+    text-decoration: none;
+    padding-top: 38px;
+    text-align: center;
+    justify-content: space-around;
+}
+.nav-item{
+    margin-right: 40px;
+}
+.container{
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.miami-text1{
+    text-align: center;
+}
+.miami-text{
+    display: flex;
+    margin-top: 50px;
+}
+.feed{
+    text-align: center;
+}
+.feed-text{
+    padding-top: 50px;
+}
+.eyt{
+    line-height: 40px;
+    display: block;
+}
+.email{
+    padding: 12px 0px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+.your{
+    padding: 12px 0px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+.text{
+    padding: 12px 0px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+.aa{
+    text-align: center;
+}
+.miami-foter{
+    text-align: center;   
 }
