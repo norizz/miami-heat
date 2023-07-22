@@ -1,5 +1,10 @@
- body{
+body{
   font-family: 'Montserrat Subrayada', sans-serif;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 .header{
     background-image: url(../images/miamibackground.jpg);
@@ -7,8 +12,8 @@
     height: 100vh;
     background-size: cover;
     background-repeat: no-repeat;
-    margin: 0;
-    padding: 0;
+    margin: 0 auto;
+    padding: 0 auto;
 }
 .sv{
     margin-left: 850px;
@@ -26,23 +31,32 @@
 }
 .nav-item{
     margin-right: 40px;
+    color: #000;
+
 }
 .container{
-    margin-left: 150px;
-    margin-right: 150px;
+    width: 1090px;
+    margin: 0 auto;
 }
 .miami-text1{
     text-align: center;
+    margin-top: 55px;
+    margin-bottom: 55px;
 }
 .miami-text{
     display: flex;
-    margin-top: 50px;
+    margin-bottom: 55px;
+}
+.miami-text-img-img {
+  background-image: url(../images/miamilogo__name.jpeg);
 }
 .feed{
     text-align: center;
+    margin-bottom: 55px;
 }
 .feed-text{
     padding-top: 50px;
+    margin-bottom: 55px;
 }
 .eyt{
     line-height: 40px;
@@ -63,8 +77,31 @@
     margin: 8px 0;
     box-sizing: border-box;
 }
+.input {
+  background-color: #8B7E7E;
+  padding:8px 420px 8px 8px;
+  font-size: 16px;
+  color: #fff;
+  border: none;
+}
+::placeholder {
+  color:#fff;
+}
+.bttn {
+  background-color: #8B7E7E;
+  padding:10px 35px;
+  font-size: 16px;
+  color: #fff;
+  border: none;
+  margin-bottom: 110px;
+}
 .aa{
-    text-align: center;
+  text-align: center;
+  margin-bottom: 55px;
+}
+.aa-text {
+  text-align: center;
+  margin-bottom: 55px;
 }
 .miami-foter{
     text-align: center;   
