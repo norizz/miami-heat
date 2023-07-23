@@ -44,11 +44,18 @@ body{
     margin-bottom: 55px;
 }
 .miami-text{
+    flex-flow: row nowrap;
+    align-items: center;
     display: flex;
     margin-bottom: 55px;
 }
-.miami-text-img-img {
-  background-image: url(../images/miamilogo__name.jpeg);
+.miami-text-img {
+  display: flex;
+  flex: 0 0 auto;
+}
+.miami-text-under{
+  display: flex;
+  margin-bottom: 55px;
 }
 .feed{
     text-align: center;
@@ -84,6 +91,9 @@ body{
   color: #fff;
   border: none;
 }
+.input:active{
+  border: none;
+}
 ::placeholder {
   color:#fff;
 }
@@ -105,4 +115,8 @@ body{
 }
 .miami-foter{
     text-align: center;   
+}
+.miami-png {
+    height: 75px;
+    width: 75px;
 }
