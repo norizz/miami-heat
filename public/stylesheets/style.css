@@ -53,10 +53,6 @@ body{
   display: flex;
   flex: 0 0 auto;
 }
-.miami-text-under{
-  display: flex;
-  margin-bottom: 55px;
-}
 .feed{
     text-align: center;
     margin-bottom: 55px;
