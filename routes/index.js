@@ -10,4 +10,24 @@ app.get('/', (req, res) => {
 });
 app.use(express.static('public'));
 
+router.get("/Players", function(req,res){
+  res.render("players.hbs", {title: 'Players'})
+});
+
+router.get("/Stats", function(req,res){
+  res.render("stats", {title: ''})
+});
+
+router.get("/Games", function(req,res){
+  res.render("games", {})
+});
+
+router.get("/Halloffame", function(req,res){
+  res.render("halloffame", {})
+});
+
+router.get("/Jersey", function(req,res){
+  res.render("jersey", {})
+});
+
 module.exports = router;
