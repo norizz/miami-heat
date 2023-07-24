@@ -188,9 +188,6 @@ body{
     font-weight: 700;
     font-size: 24px;
 }
-.player-3{
-    margin-left: -75px;
-}
 .name-5{
     margin-left: 150px;
     font-weight: 700;
@@ -205,4 +202,7 @@ body{
     margin-left: 100px;
     font-weight: 700;
     font-size: 20px;
+}
+.player-3 {
+    padding-left: 130px;
 }
