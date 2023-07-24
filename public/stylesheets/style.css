@@ -104,5 +104,37 @@ body{
   margin-bottom: 55px;
 }
 .miami-foter{
-    text-align: center;   
+    text-align: center;
+}
+.button-miami{
+    display: flex;
+    justify-content: center;
+    padding-top: 54px;
+    text-decoration: none;
+    font-size: 24px;
+    font-weight: 700;
+    color: #000;
+}
+
+.left-players{
+    margin-left: 200px;
+}
+.characterist{
+    margin-left: 200px;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.name{
+    margin-left: 330px;
+    font-weight: 700;
+    font-size: 24px;
+}
+.position{
+    margin-left: 360px;
+    font-weight: 700;
+    font-size: 20px;
+}
+.player-1{
+    width: 435px;
 }
