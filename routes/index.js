@@ -5,10 +5,6 @@ var router = express.Router();
 router.get('/', function(req, res, next) {
   res.render('index', { title: 'Express' });
 });
-app.get('/', (req, res) => {
-  res.render('index');
-});
-app.use(express.static('public'));
 
 router.get("/Players", function(req,res){
   res.render("players.hbs", {title: ''})
