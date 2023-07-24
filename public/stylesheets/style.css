@@ -145,6 +145,64 @@ body{
     font-weight: 700;
     font-size: 20px;
 }
+.duo{
+    display: block;
+}
+.container-1{
+    margin: 0px, 166px;
+}
+.player-holder{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 129px ;
+}
 .player-1{
-    width: 435px;
+    padding-right: 200px;
+}
+.player-2{
+    margin-right: 200px;
+}
+
+.characterist-2{
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.name-2{
+    margin-left: 180px;
+    font-weight: 700;
+    font-size: 24px;
+}
+.position-2{
+    margin-left: 210px;
+    font-weight: 700;
+    font-size: 20px;
+}
+.name-3{
+    margin-left: 140px;
+    font-weight: 700;
+    font-size: 24px;
+}
+.name-4{
+    margin-left: 380px;
+    font-weight: 700;
+    font-size: 24px;
+}
+.player-3{
+    margin-left: -75px;
+}
+.name-5{
+    margin-left: 150px;
+    font-weight: 700;
+    font-size: 24px;
+}
+.position-3{
+    margin-left: 180px;
+    font-weight: 700;
+    font-size: 20px;
+}
+.characterist-3{
+    margin-left: 100px;
+    font-weight: 700;
+    font-size: 20px;
 }
