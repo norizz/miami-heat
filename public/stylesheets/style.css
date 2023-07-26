@@ -49,9 +49,12 @@ body{
     display: flex;
     margin-bottom: 55px;
 }
-.miami-text-img {
-  display: flex;
-  flex: 0 0 auto;
+.miami-text-img-img {
+    float: right;
+    margin: 20 20;
+}
+.index-gap__text{
+    height: 50px;
 }
 .feed{
     text-align: center;
@@ -205,4 +208,57 @@ body{
 }
 .player-3 {
     padding-left: 130px;
+}
+.player__stats {
+}
+.href-miami {
+    margin-top: 40px;
+    margin-bottom: 50px;
+    padding-top: 0px;
+}
+.stats-header__block {
+    margin-bottom: 100px;
+}
+.stats-header {
+    align-items: center;
+    text-align: center;
+}
+.stats-table {
+    border-collapse:collapse;
+}
+.stats-table__row {
+    border:none;
+}
+.stats-table__header {
+    width: 400px;
+    text-align: left;
+    border-collapse:collapse;
+	border: 1px solid black;
+	padding-top:0;
+	padding-bottom:30px;
+    padding-left: 20px;
+    border-top:none;
+	border-bottom:none;
+}
+.stats-table__header:first-of-type{
+    border-left: none;
+}
+.stats-table__header:last-of-type{
+    border-right: none;
+}
+.stats-table__value {
+    width: 130px;
+    border-collapse:collapse;
+	border: 1px solid black;
+	padding-top:0;
+	padding-bottom:10px;
+    padding-left: 20px;
+    border-top:none;
+	border-bottom:none;
+}
+.stats-table__value:first-of-type{
+    border-left: none;
+}
+.stats-table__value:last-of-type{
+    border-right: none;
 }
