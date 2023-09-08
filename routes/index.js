@@ -23,7 +23,7 @@ router.get("/Halloffame", function(req,res){
 });
 
 router.get("/Jersey", function(req,res){
-  res.render("jersey", {})
+  res.render("jersey.hbs", {})
 });
 
 
