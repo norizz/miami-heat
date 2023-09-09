@@ -295,3 +295,203 @@ body{
     width: 160px;
     height: 160px;
 }
+
+
+.pinkblue1  {
+    width: 60%;
+    margin-top: 7%;
+    margin-left: -10%;
+}
+.textpinkbluejerseys {
+    margin-top: -37%;
+    margin-left: 48%;
+    padding-top: 54px;
+    text-decoration: none;
+    font-size: 24px;
+    font-weight: 700;
+    color: #000;
+}
+
+.onehundredfourteen {
+    margin-top: -2%;
+    margin-left: 48%;
+    padding-top: 54px;
+    text-decoration: none;
+    font-size: 24px;
+    font-weight: 700;
+    color: #000;
+}
+
+.buyshop {
+    margin-top: 1%;
+    margin-left: 56%;
+    padding-top: 54px;
+    text-decoration: none;
+    font-size: 24px;
+    font-weight: 700;
+    color: #000;
+}
+
+.red1 {
+    width: 60%;
+    margin-top: 22%;
+    margin-left: -10%;
+}
+
+.textredjerseys {
+    margin-top: -44%;
+    margin-left: 48%;
+    padding-top: 54px;
+    text-decoration: none;
+    font-size: 24px;
+    font-weight: 700;
+    color: #000;
+}
+
+.onehundredfourteen2 {
+    margin-top: -2%;
+    margin-left: 48%;
+    padding-top: 54px;
+    text-decoration: none;
+    font-size: 24px;
+    font-weight: 700;
+    color: #000;
+}
+
+.buyshop2 {
+    margin-top: 2%;
+    margin-left: 56%;
+    padding-top: 54px;
+    text-decoration: none;
+    font-size: 24px;
+    font-weight: 700;
+    color: #000;
+}
+
+.pink1 {
+    width: 50%;
+    margin-top: 33%;
+    margin-left: -8%;
+}
+
+.textpinkjerseys {
+    margin-top: -43%;
+    margin-left: 48%;
+    padding-top: 54px;
+    text-decoration: none;
+    font-size: 24px;
+    font-weight: 700;
+    color: #000;
+}
+
+.onehundredfourteen3 {
+    margin-top: -2%;
+    margin-left: 48%;
+    padding-top: 54px;
+    text-decoration: none;
+    font-size: 24px;
+    font-weight: 700;
+    color: #000;
+}
+
+.buyshop3 {
+    margin-top: 2%;
+    margin-left: 56%;
+    padding-top: 54px;
+    text-decoration: none;
+    font-size: 24px;
+    font-weight: 700;
+    color: #000;
+}
+
+.white1 {
+    width: 60%;
+    margin-top: 35%;
+    margin-left: -8%;  
+}
+
+.textwhitejerseys {
+    margin-top: -43%;
+    margin-left: 48%;
+    padding-top: 54px;
+    text-decoration: none;
+    font-size: 24px;
+    font-weight: 700;
+    color: #000;
+}
+
+.onehundredfourteen4 {
+    margin-top: -2%;
+    margin-left: 48%;
+    padding-top: 54px;
+    text-decoration: none;
+    font-size: 24px;
+    font-weight: 700;
+    color: #000;
+}
+
+.buyshop4 {
+    margin-top: 2%;
+    margin-left: 56%;
+    padding-top: 54px;
+    text-decoration: none;
+    font-size: 24px;
+    font-weight: 700;
+    color: #000;
+}
+
+.buyshop button {
+    padding: 20px 50px;
+    border: none;
+    border-radius: 20px;
+    color: black;
+    font-size: 20px;
+}
+
+.buyshop button:hover {
+    background-color: aqua;
+    border: solid 2px palevioletred ;
+    color: black;
+}
+
+.buyshop2 button {
+    padding: 20px 50px;
+    border: none;
+    border-radius: 20px;
+    color: black;
+    font-size: 20px;
+}
+
+.buyshop2 button:hover {
+    background-color: red;
+    border: solid 2px black ;
+    color: white;
+}
+
+.buyshop3 button {
+    padding: 20px 50px;
+    border: none;
+    border-radius: 20px;
+    color: black;
+    font-size: 20px;
+}
+
+.buyshop3 button:hover {
+    background-color: palevioletred;
+    border: solid 2px  aqua ;
+    color: white;
+}
+
+.buyshop4 button {
+    padding: 20px 50px;
+    border: none;
+    border-radius: 20px;
+    color: black;
+    font-size: 20px;
+}
+
+.buyshop4 button:hover {
+    background-color: red;
+    border: solid 2px  orange ;
+    color: white;
+}
